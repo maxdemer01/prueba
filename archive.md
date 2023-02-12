@@ -3,10 +3,9 @@ layout: default
 title: Archive
 ---
 
-# Archive
+# Todos los artículos
 
-Browse all posts by month and year.
-
+Acceda a todos los artículos ordenados cronológicamente.
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}
 {% for yearMonth in postsByYearMonth %}
   <h2>{{ yearMonth.name }}</h2>
