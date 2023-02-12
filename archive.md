@@ -1,9 +1,8 @@
 ---
-layout: default
-title: Archive
+layout: page
+title: Todos los artículos
 ---
 
-# Todos los artículos
 
 Acceda a todos los artículos ordenados cronológicamente.
 {% assign postsByYearMonth = site.posts | group_by_exp: "post", "post.date | date: '%B %Y'" %}

@@ -45,3 +45,32 @@
     margin-left: var(--spacer);
   }
 }
+
+.animate-charcter
+{
+  background-image: linear-gradient(
+    90deg,
+    #833ab4 0%,
+    #fd1d1d 25%,
+    #fcb045 50%,
+    #fd1d1d 75%,
+    #833ab4 100%,
+
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 4s linear infinite;
+      font-size: 40px;
+}
+
+@keyframes textclip {
+  to {
+    background-position: 200% center;
+  }
+}

@@ -1,29 +1,12 @@
 ---
+title : Sobre mi
 layout: page
-title: About
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Mi nombre es Ismael Contreras y soy de Jaén, España. Desde siempre me ha fascinado todo lo relacionado con la tecnología, y conforme he ido creciendo me he dado cuenta de que es a lo que quiero dedicar mi vida. Recientemente descubrí otra de mis grandes pasiones hasta entonces ocultas, las matemáticas.
 
-In the novel, *The Strange Case of Dr. Jekyll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+Es por esto que iré publicando, con más o menos regularidad, artículos acerca de temas que me interesen, proyectos que esté realizando o tutoriales explicando de manera sintetizada algo que me haya costado algún que otro quebradero de cabeza. Los temas, como ya he mencionado, orbitarán en torno a mis dos áreas favoritas del conocimiento, e incluso tocar temas relacionados pero no incluídos en estos ámbitos.
 
-There are currently two themes built on Poole:
+Sin necesidad de investigar mucho, uno se da cuenta de la importancia de la creación de contenido en el mundo de la informática. Por ello, y para no quedarme atrás, he decidido abrir esta página donde aportar al mundo ese granito de arena, y ayudar a la gente que, como yo, en algún momento se encontraron perdidos en el extenso ámbito que tratamos.
 
-- [Hyde](https://hyde.getpoole.com)
-- [Lanyon](https://lanyon.getpoole.com)
-
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-- Built for [Jekyll](https://jekyllrb.com)
-- Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-- Coded with [Atom](https://atom.io), an amazing open source code editor
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+Además, utilizaré este apartado como un portfolio donde iré añadiendo paulatinamente mis avances en mundo académico y empresarial.

@@ -5,7 +5,6 @@ title: ¡Bienvenido!
   
 
 
-
 Esta es mi página web. Aquí abordaremos todo tipo de temas relacionados con el mundo de la programación y las matemáticas, mis dos grandes pasiones. 
 
 Encontrarás los posts organizados en orden cronológico en la pestaña [Artículos](https://maxdemer01.github.io/archive/), así como una descripción más detallada de quién soy en el apartado [Sobre mi](https://maxdemer01.github.io/about).
